@@ -1,0 +1,15 @@
+/Users/mt/Projects/Valid_Parantheses/Valid_Parantheses/bin/Debug/net7.0/Valid_Parantheses
+/Users/mt/Projects/Valid_Parantheses/Valid_Parantheses/bin/Debug/net7.0/Valid_Parantheses.deps.json
+/Users/mt/Projects/Valid_Parantheses/Valid_Parantheses/bin/Debug/net7.0/Valid_Parantheses.runtimeconfig.json
+/Users/mt/Projects/Valid_Parantheses/Valid_Parantheses/bin/Debug/net7.0/Valid_Parantheses.dll
+/Users/mt/Projects/Valid_Parantheses/Valid_Parantheses/bin/Debug/net7.0/Valid_Parantheses.pdb
+/Users/mt/Projects/Valid_Parantheses/Valid_Parantheses/obj/Debug/net7.0/Valid_Parantheses.csproj.AssemblyReference.cache
+/Users/mt/Projects/Valid_Parantheses/Valid_Parantheses/obj/Debug/net7.0/Valid_Parantheses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mt/Projects/Valid_Parantheses/Valid_Parantheses/obj/Debug/net7.0/Valid_Parantheses.AssemblyInfoInputs.cache
+/Users/mt/Projects/Valid_Parantheses/Valid_Parantheses/obj/Debug/net7.0/Valid_Parantheses.AssemblyInfo.cs
+/Users/mt/Projects/Valid_Parantheses/Valid_Parantheses/obj/Debug/net7.0/Valid_Parantheses.csproj.CoreCompileInputs.cache
+/Users/mt/Projects/Valid_Parantheses/Valid_Parantheses/obj/Debug/net7.0/Valid_Parantheses.dll
+/Users/mt/Projects/Valid_Parantheses/Valid_Parantheses/obj/Debug/net7.0/refint/Valid_Parantheses.dll
+/Users/mt/Projects/Valid_Parantheses/Valid_Parantheses/obj/Debug/net7.0/Valid_Parantheses.pdb
+/Users/mt/Projects/Valid_Parantheses/Valid_Parantheses/obj/Debug/net7.0/Valid_Parantheses.genruntimeconfig.cache
+/Users/mt/Projects/Valid_Parantheses/Valid_Parantheses/obj/Debug/net7.0/ref/Valid_Parantheses.dll
